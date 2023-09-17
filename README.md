@@ -1,4 +1,4 @@
-<h2>INN Hotel</h2>
+<h2>INN Hotels</h2>
 <img src="https://github.com/Nkunim2023/INN-Hotels/blob/main/INN%20Hotel.png?raw=true" alt=" ReneWind Project"/>
 
 <h2>Business Problem Overview and Solution Approach</h2>
@@ -35,7 +35,7 @@ canceled in advance, and help in formulating profitable policies for cancellatio
 <h2>Below is my presentation slides:</h2>
 
 <p align="center">
-ReneWind Project: <br/>
+INN Hotels Project: <br/>
 <img src="https://imgur.com/Uh0Q9Gx.png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
