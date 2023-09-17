@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gvnwJpZ.png" alt=" ReneWind Project"/>
+<img src="https://github.com/Nkunim2023/INN-Hotels/blob/main/INN%20Hotel.png?raw=true" alt=" ReneWind Project"/>
 
 
 <h2>Description</h2>
