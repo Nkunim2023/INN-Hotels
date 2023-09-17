@@ -1,16 +1,19 @@
+# INN Hotel
 <img src="https://github.com/Nkunim2023/INN-Hotels/blob/main/INN%20Hotel.png?raw=true" alt=" ReneWind Project"/>
 
 
 <h2>Description</h2>
-ReneWind" is a company working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. The objective is to build various classification models, tune them and find the best one that will help identify failures so that the generator could be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
+Analyze the data of INN Hotels to find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
 <br />
 
 <h2>Skills & Tools Covered</h2>
 
-- LearnApplyRepeat
-- Upanddownsampling
-- Regularization
-- Hyperparametertuning
+- Exploratory Data Analysis (EDA)
+- Data Pre-processing
+- Logistic Regression
+- Multicollinearity
+- Finding optimal threshold using AUC-ROC curve
+- Decision trees, Pruning
 
 <h2>Below is my presentation slides:</h2>
 
