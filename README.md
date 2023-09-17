@@ -1,10 +1,19 @@
-# INN Hotel
+<h2>INN Hotel</h2>
 <img src="https://github.com/Nkunim2023/INN-Hotels/blob/main/INN%20Hotel.png?raw=true" alt=" ReneWind Project"/>
 
-
-<h2>Description</h2>
-Analyze the data of INN Hotels to find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
-<br />
+<h2>Business Problem Overview and Solution Approach</h2>
+<p>INN Hotels Group has a chain of hotels in Portugal. They are facing problems with the high number
+of booking cancellations. <p />
+<p>A significant number of hotel bookings are called off due to cancellations or no-shows. The typical
+reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier
+by the option to do so free of charge or preferably at a low cost which is beneficial to hotel guests
+but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with. Such losses
+are particularly high on last-minute cancellations.</p>
+<p>The new technologies involving online booking channels have dramatically changed customers’
+booking possibilities and behavior.</p>
+<p>The task at hand is to analyze the data provided, to find which factors have a high influence on
+booking cancellations, build a predictive model that can predict which booking is going to be
+canceled in advance, and help in formulating profitable policies for cancellations and refunds.</p>
 
 <h2>Skills & Tools Covered</h2>
 
