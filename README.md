@@ -24,6 +24,14 @@ canceled in advance, and help in formulating profitable policies for cancellatio
 - Finding optimal threshold using AUC-ROC curve
 - Decision trees, Pruning
 
+## Python Libraries Used
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+
 <h2>Below is my presentation slides:</h2>
 
 <p align="center">
